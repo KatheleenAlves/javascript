@@ -1,0 +1,24 @@
+body {
+    background: hsl(350, 100%, 88%);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center; /*alinha no centro*/
+}
+
+section {
+    background: white;
+    border-radius: 10px; /*borda arrendondada*/
+    padding: 15px; /*aumenta a altura da div*/
+    width: 500px; /*largura*/
+    margin: auto; /*centraliza*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.405); /*5px = deslocamento lateral, 5px=deslocamento vertical, 10 px de espalhamento*/
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
