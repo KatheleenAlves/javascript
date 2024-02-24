@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <div><h3>SIMPLE CALCULATOR</h3></div>
+        <div>
+            <input type="number" name="" class="txtNumbers" id="n1">
+        </div>
+        <div>
+            <input type="number" name="" class="txtNumbers" id="n2">
+        </div>
+        <div id="divRadios">
+            <input type="radio" name="radioOperacoes" checked><label for="">+</label>
+            <input type="radio" name="radioOperacoes"><label for="">-</label>
+            <input type="radio" name="radioOperacoes"><label for="">*</label>
+            <input type="radio" name="radioOperacoes"><label for="">/</label>
+        </div>
+        <div>
+            <button onclick="calculate()">CALCULATE</button>
+        </div>
+        <div id="result">
+
+        </div>
+    </main>
+    <script src="calculadora.js"></script>
+</body>
+</html>
