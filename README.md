@@ -10,8 +10,6 @@ Para acessar algum site é só clicar no site desejado abaixo:<br><br>
 
 ✅<a href="https://katheleenalves.github.io/javascript/lampada/index.html" target="blank">Lampada VANILLA JS<br>
 
-✅<a href="https://katheleenalves.github.io/javascript/analisadordenumero/modelo.html" target="blank">Analisador de Número<br>
-
 ✅<a href="https://katheleenalves.github.io/javascript/contador/modelo.html">Contador
 <br>
 
