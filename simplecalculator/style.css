@@ -8,13 +8,12 @@ main{
     color: white;
     width: 400px;
     height: 300px;
-    margin: auto; 
     text-align: center;
     padding: 10px;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    display: flex;
+    position: absolute;
+    transform: translate(-50%, -50%);
+	top: 50%;
+	left: 50%;
 }
 
 input.txtNumbers{
@@ -38,12 +37,11 @@ button{
 }
 
 div#result{
-    margin-top: 10px;
-    background-color: white;
-    color: black;
-    height: 30px;
+    height: 40px;
     width: 180px;
     border-radius: 2px;
     font-weight: bold;
+    margin: auto;
+    padding: 10px;
 }
 
