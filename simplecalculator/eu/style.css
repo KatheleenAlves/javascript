@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(131, 173, 122);
+    font-size: 1.40em;
+}
+
+main{
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    padding: 10px;
+    position: absolute; 
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    border-radius: 5px;
+}
+
+input.txtNumbers{
+    width: 180px;
+    height: 30px;
+}
+
+#divRadios{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    width: 120px;
+    padding: 2px;
+    border-radius: 6px;
+}
+
+div#result{
+    margin-top: 10px;
+    height: 30px;
+    width: 180px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
