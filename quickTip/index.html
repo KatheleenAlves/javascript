@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick tip</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body oninput="update()">
+    <main>
+        <header><h1>Quick Tip</h1></header>
+        <section id="firstSection">
+            <div>
+                <label for="Bill">Bill</label>
+                <input type="number" name="" id="txtBill" placeholder="Your bill">
+            </div>
+            <div>
+                <label>Select Tip</label>
+                <span id="tipPercent">0%</span>
+                <input type="range" value="0" id="tipInput" class="range">
+            </div>
+            <div>
+                <span>Tip</span>
+                <span id="tipTotal"></span>
+                <span id="tip"></span>
+                <hr>
+            </div>
+            <div>
+                <span><strong>Total</strong></span>
+                <span id="spanTotal"></span>
+            </div>
+        </section>
+        <section id="totalSection">
+            <div>
+                <label for="">Split</label>
+                <span id="person">1 person</span>
+                <input type="range" id="splitInput" class="range" min="1" max=10 value="1">
+            </div>
+            <div>
+                <span>Bill each</span>
+                <span id="billEach"></span>
+            </div>
+        </section>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>
