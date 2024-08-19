@@ -18,3 +18,7 @@ Para acessar algum site é só clicar no site desejado abaixo:<br><br>
 
 ✅<a href="https://katheleenalves.github.io/javascript/verificadordeidade/verificadordeidade.html">Verificador de Idade
 <br>
+
+<p>Projetos em desenvolvimento</p>
+✅<a href="https://katheleenalves.github.io/javascript/semaforo/index.html">Verificador de Idade
+<br>
