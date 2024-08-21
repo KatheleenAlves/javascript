@@ -10,15 +10,13 @@ const trafficLight = (event) => {
 const turnOn = {
     'red': () => img.src = 'img/vermelho.png',
     'yellow': () => img.src = 'img/amarelo.png',
-    'green': () => img.src = 'img/verde.png',
-    'automatic': () => changeColor() 
+    'green': () => img.src = 'img/verde.png'
 }
 
 const changeColor = () =>{
-    
+
 }
 
-setInterval(trocaDeCor, 3000)
 
 buttons.addEventListener("click", trafficLight)
 
