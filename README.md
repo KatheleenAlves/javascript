@@ -6,6 +6,9 @@ Para acessar algum site é só clicar no site desejado abaixo:<br><br>
 
 ✅<a href="https://katheleenalves.github.io/javascript/quickTip/index.html" target="blank">Quick Tip<br>
 
+✅<a href="https://katheleenalves.github.io/javascript/semaforo/index.html">Semáforo
+<br>
+
 ✅<a href="https://katheleenalves.github.io/javascript/simplecalculator/index.html" target="blank">Simple Calculator<br>
 
 ✅<a href="https://katheleenalves.github.io/javascript/lampada/index.html" target="blank">Lampada VANILLA JS<br>
@@ -20,5 +23,4 @@ Para acessar algum site é só clicar no site desejado abaixo:<br><br>
 <br>
 
 <p>Projetos em desenvolvimento</p>
-✅<a href="https://katheleenalves.github.io/javascript/semaforo/index.html">Verificador de Idade
-<br>
+✅<a href="https://katheleenalves.github.io/javascript/slideshow/index.html">Slide Show
