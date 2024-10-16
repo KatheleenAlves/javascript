@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div.container-slide{
+    display: flex;
+    width: 50vw;
+    height: 50vh;
+    background-color: black;
+    margin: 20vh auto; 
+    border-radius: 10px;
+    box-shadow: 0px -0px 30px rgba(0, 0, 0, 0.748);
+    /*0px: não desloca para o lado
+    20px: deslocamento na vertical
+    30px: esplhamento
+    */
+}
+
+div.container-items{
+    position: absolute;
+    display: flex;
+    width: 50vw;
+    height: 50vh;
+    background-color: red;
+}
+
+div.item{
+    width: 50vw;
+    height: 50vw;
+}
+
+div.item img{
+    width: 50vw;
+    height: 50vw;
+}
+
+div.action-button{
+
+}
